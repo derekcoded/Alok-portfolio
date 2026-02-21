@@ -1,44 +1,114 @@
-# vCard - Personal portfolio
+PERSONAL PORTFOLIO WEBSITE – ALOK SINGH
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Project Overview
+----------------
+This is a modern, responsive, and interactive personal portfolio website built using HTML, CSS, and JavaScript. The website showcases my education, skills, internships, certifications, and contact information in a clean and professional layout.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+About Me
+--------
+I am Alok Singh, a B.Tech Computer Science and Engineering student passionate about:
 
-## Demo
+- Web Development
+- Java Programming
+- Artificial Intelligence & Data Analytics
+- Problem Solving
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+This portfolio represents my academic journey, technical expertise, and professional growth.
 
-## Prerequisites
+Features
+--------
+- Responsive and modern user interface
+- Sidebar with contact and social media links
+- About section with professional summary
+- Resume section (Education and Experience timeline)
+- Skills section with progress indicators
+- Portfolio section for certificates
+- Testimonials section
+- Contact form with Google Maps integration
+- Smooth navigation between sections
 
-Before you begin, ensure you have met the following requirements:
+Technologies Used
+-----------------
+- HTML5 – Structure
+- CSS3 – Styling and Layout
+- JavaScript (Vanilla JS) – Interactivity
+- Ionicons – Icons
+- Google Fonts (Poppins) – Typography
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Project Structure
+-----------------
+index.html
+assets/
+  ├── css/
+  │    └── style.css
+  ├── js/
+  │    └── script.js
+  └── images/
+dwn image/
+README.md
 
-## Installing vCard
+Sections Overview
+-----------------
+About:
+Brief introduction and professional summary.
 
-To install **vCard**, follow these steps:
+Resume:
+- Education timeline
+- Experience and internships
+- Technical skills
 
-Linux and macOS:
+Certificates:
+Filterable section showcasing:
+- AI & Data Analytics
+- Web Development
+- LaTeX Training
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+Contact:
+- Google Maps location integration
+- Contact form interface
 
-Windows:
+Internships and Training
+------------------------
+- AI & Data Analytics (Green Skills Program)
+- Web Development Internship
+- LaTeX Training (IIT Bombay Spoken Tutorial Project)
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+Contact Information
+-------------------
+Email: alok33323@gmail.com
+Phone: +91 9548884374
+Location: Kotdwar, Uttarakhand, India
 
-## Contact
+Social Links
+------------
+GitHub: https://github.com/derekcoded
+LinkedIn: https://www.linkedin.com/in/alok-s-abb345194/
+Instagram
+Facebook
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+How to Run the Project
+----------------------
+1. Clone the repository:
+   git clone https://github.com/your-username/your-repository-name.git
 
-## License
+2. Open the project folder.
 
-MIT
+3. Open index.html in your web browser.
+
+No additional setup or dependencies are required.
+
+Future Improvements
+-------------------
+- Add backend functionality for the contact form
+- Deploy using GitHub Pages or Netlify
+- Add real-world projects section
+- Improve accessibility and SEO
+- Add modern animations and enhancements
+
+License
+-------
+This project is open-source and available for personal and educational use.
+
+Support
+-------
+If you like this project, consider giving it a star on GitHub.
